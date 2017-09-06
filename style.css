@@ -1,0 +1,31 @@
+body
+{
+    display:flex;
+    align-items:center;
+}
+.container
+{
+    display:flex;
+    align-items:center;
+    width:100%
+}
+.img
+{
+    position:relative;
+    left:50%
+}
+.hand
+{
+    position:relative;
+    left:39.4%;
+}
+.minuteHand
+{
+    position:relative;
+    left:39.1%;
+}
+.hourHand
+{
+    position:relative;
+    left:39.2%;
+}
